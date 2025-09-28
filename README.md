@@ -1,14 +1,14 @@
 # MeuPortfolio
 
-MeuPortfolio é um site pessoal criado como parte de meu trabalho de conclusão de curso em Desenvolvimento Web. Este projeto é construído usando HTML, CSS e o framework Bootstrap, com desenvolvimento auxiliado pela ferramenta VSCode.
+MeuPortfolio é um site pessoal e responsivo para apresentar minhas habilidades e projetos. Este projeto foi construído com HTML, CSS e JavaScript puros, com foco em um design moderno e interativo.
 
 ## Link do Portfolio
 
-Acesse meu portfólio online aqui: [MeuPortfolio](https://valdeircesario.github.io/MeuPortfolio-html/index.html)
+Acesse meu portfólio online aqui: [valdeircesario.github.io/MeuPortfolio-html](https://valdeircesario.github.io/MeuPortfolio-html/)
 
 ## Visão Geral
 
-O MeuPortfolio destaca minhas habilidades e trabalhos como desenvolvedor web, oferecendo um design responsivo e moderno que inclui informações sobre projetos anteriores, minha experiência profissional e detalhes de contato.
+Este portfólio destaca minhas habilidades como desenvolvedor, oferecendo um design moderno e responsivo que inclui uma biografia, projetos, cursos e um formulário de contato funcional.
 
 ## Demonstração
 
